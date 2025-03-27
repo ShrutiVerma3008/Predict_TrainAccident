@@ -1,0 +1,200 @@
+fiscal_year,state,cause,value,units,note
+2021-22,All India,failure_of_equipment,5.0,value in absolute number,
+2021-22,All India,failure_of_other_than_railway_staff,4.0,value in absolute number,
+2021-22,All India,failure_of_railway_staff,20.0,value in absolute number,
+2021-22,All India,incidental,3.0,value in absolute number,
+2021-22,All India,sabotage,1.0,value in absolute number,
+2021-22,All India,under_investigation,0.0,value in absolute number,
+2020-21,All India,combination_of_factors,0.0,value in absolute number,
+"2020-21
+2020-21
+2020-21",All India All India All India,"could_not_be_established/none_held_responsible_failure_of_equipment
+failure_of_other_than_railway_staff",,value in absolute number value in absolute number value in absolute number,
+2020-21,All India,failure_of_railway_staff,16.0,value in absolute number,
+2020-21,All India,incidental,0.0,value in absolute number,
+2020-21,All India,sabotage,0.0,value in absolute number,
+2020-21,All India,under_investigation,0.0,value in absolute number,
+2019-20,All India,combination_of_factors,0.0,value in absolute number,
+2019-20,All India,could_not_be_established/none_held_responsible,0.0,value in absolute number,
+2019-20,All India,failure_of_equipment,4.0,value in absolute number,
+"2019-20
+2019-20
+2019-20
+2019-20",All India All India All India All India,"failure_of_other_than_railway_staff_failure_of_railway_staff
+incidental
+sabotage",,value in absolute number value in absolute number value in absolute number value in absolute number,
+2019-20,All India,under_investigation,0.0,value in absolute number,
+2018-19,All India,combination_of_factors,0.0,value in absolute number,
+2018-19,All India,could_not_be_established/none_held_responsible,0.0,value in absolute number,
+2018-19,All India,failure_of_equipment,3.0,value in absolute number,
+2018-19,All India,failure_of_other_than_railway_staff,9.0,value in absolute number,
+2018-19,All India,failure_of_railway_staff,41.0,value in absolute number,
+"2018-19
+2018-19
+2018-19
+2017-18",All India All India All India All India,"incidental_sabotage
+under_investigation
+combination_of_factors",,value in absolute number value in absolute number value in absolute number value in absolute number,
+2017-18,All India,could_not_be_established/none_held_responsible,0.0,value in absolute number,
+2017-18,All India,failure_of_equipment,3.0,value in absolute number,
+2017-18,All India,failure_of_other_than_railway_staff,18.0,value in absolute number,
+2017-18,All India,failure_of_railway_staff,43.0,value in absolute number,
+2017-18,All India,incidental,5.0,value in absolute number,
+2017-18,All India,sabotage,2.0,value in absolute number,
+2017-18,All India,under_investigation,0.0,value in absolute number,
+"2016-17
+2016-17
+2016-17",All India All India All India,"combination_of_factors
+could_not_be_established/none_held_responsible_failure_of_equipment",,value in absolute number value in absolute number value in absolute number,
+2016-17,All India,failure_of_other_than_railway_staff,22.0,value in absolute number,
+2016-17,All India,failure_of_railway_staff,64.0,value in absolute number,
+2016-17,All India,incidental,6.0,value in absolute number,
+2016-17,All India,sabotage,2.0,value in absolute number,
+"2016-17
+2015-16
+2015-16",All India All India All India,"under_investigation_combination_of_factors
+could_not_be_established/none_held_responsible",,value in absolute number value in absolute number value in absolute number,
+2015-16,All India,failure_of_equipment,2.0,value in absolute number,
+2015-16,All India,failure_of_other_than_railway_staff,38.0,value in absolute number,
+2015-16,All India,failure_of_railway_staff,53.0,value in absolute number,
+2015-16,All India,incidental,9.0,value in absolute number,
+2015-16,All India,sabotage,1.0,value in absolute number,
+2015-16,All India,under_investigation,1.0,value in absolute number,
+2014-15,All India,combination_of_factors,0.0,value in absolute number,
+"2014-15
+2014-15
+2014-15",All India All India All India,"could_not_be_established/none_held_responsible_failure_of_equipment
+failure_of_other_than_railway_staff",,value in absolute number value in absolute number value in absolute number,
+2014-15,All India,failure_of_railway_staff,58.0,value in absolute number,
+2014-15,All India,incidental,8.0,value in absolute number,
+2014-15,All India,sabotage,3.0,value in absolute number,
+2014-15,All India,under_investigation,0.0,value in absolute number,
+2013-14,All India,combination_of_factors,0.0,value in absolute number,
+2013-14,All India,could_not_be_established/none_held_responsible,0.0,value in absolute number,
+2013-14,All India,failure_of_equipment,3.0,value in absolute number,
+"2013-14
+2013-14
+2013-14
+2013-14",All India All India All India All India,"failure_of_other_than_railway_staff_failure_of_railway_staff
+incidental
+sabotage",,value in absolute number value in absolute number value in absolute number value in absolute number,
+2013-14,All India,under_investigation,1.0,value in absolute number,
+2012-13,All India,combination_of_factors,0.0,value in absolute number,
+2012-13,All India,could_not_be_established/none_held_responsible,1.0,value in absolute number,
+2012-13,All India,failure_of_equipment,6.0,value in absolute number,
+2012-13,All India,failure_of_other_than_railway_staff,6.0,value in absolute number,
+2012-13,All India,failure_of_railway_staff,45.0,value in absolute number,
+"2012-13
+2012-13
+2012-13
+2011-12",All India All India All India All India,"incidental_sabotage
+under_investigation
+combination_of_factors",,value in absolute number value in absolute number value in absolute number value in absolute number,
+2011-12,All India,could_not_be_established/none_held_responsible,1.0,value in absolute number,
+2011-12,All India,failure_of_equipment,5.0,value in absolute number,
+2011-12,All India,failure_of_other_than_railway_staff,9.0,value in absolute number,
+2011-12,All India,failure_of_railway_staff,52.0,value in absolute number,
+2011-12,All India,incidental,3.0,value in absolute number,
+2011-12,All India,sabotage,6.0,value in absolute number,
+2011-12,All India,under_investigation,0.0,value in absolute number,
+"2010-11
+2010-11
+2010-11",All India All India All India,"combination_of_factors
+could_not_be_established/none_held_responsible_failure_of_equipment",,value in absolute number value in absolute number value in absolute number,
+2010-11,All India,failure_of_other_than_railway_staff,9.0,value in absolute number,
+2010-11,All India,failure_of_railway_staff,56.0,value in absolute number,
+2010-11,All India,incidental,4.0,value in absolute number,
+2010-11,All India,sabotage,16.0,value in absolute number,
+"2010-11
+2009-10
+2009-10",All India All India All India,"under_investigation_combination_of_factors
+could_not_be_established/none_held_responsible",,value in absolute number value in absolute number value in absolute number,
+2009-10,All India,failure_of_equipment,6.0,value in absolute number,
+2009-10,All India,failure_of_other_than_railway_staff,10.0,value in absolute number,
+2009-10,All India,failure_of_railway_staff,63.0,value in absolute number,
+2009-10,All India,incidental,4.0,value in absolute number,
+2009-10,All India,sabotage,14.0,value in absolute number,
+2009-10,All India,under_investigation,0.0,value in absolute number,
+2008-09,All India,combination_of_factors,4.0,value in absolute number,
+"2008-09
+2008-09
+2008-09",All India All India All India,"could_not_be_established/none_held_responsible_failure_of_equipment
+failure_of_other_than_railway_staff",,value in absolute number value in absolute number value in absolute number,
+2008-09,All India,failure_of_railway_staff,75.0,value in absolute number,
+2008-09,All India,incidental,5.0,value in absolute number,
+2008-09,All India,sabotage,13.0,value in absolute number,
+2008-09,All India,under_investigation,0.0,value in absolute number,
+2007-08,All India,combination_of_factors,0.0,value in absolute number,
+2007-08,All India,could_not_be_established/none_held_responsible,1.0,value in absolute number,
+2007-08,All India,failure_of_equipment,9.0,value in absolute number,
+"2007-08
+2007-08
+2007-08
+2007-08",All India All India All India All India,"failure_of_other_than_railway_staff_failure_of_railway_staff
+incidental
+sabotage",,value in absolute number value in absolute number value in absolute number value in absolute number,
+2007-08,All India,under_investigation,0.0,value in absolute number,
+2006-07,All India,combination_of_factors,1.0,value in absolute number,
+2006-07,All India,could_not_be_established/none_held_responsible,1.0,value in absolute number,
+2006-07,All India,failure_of_equipment,9.0,value in absolute number,
+2006-07,All India,failure_of_other_than_railway_staff,12.0,value in absolute number,
+2006-07,All India,failure_of_railway_staff,85.0,value in absolute number,
+"2006-07
+2006-07
+2006-07
+2005-06",All India All India All India All India,"incidental_sabotage
+under_investigation
+combination_of_factors",,value in absolute number value in absolute number value in absolute number value in absolute number,
+2005-06,All India,could_not_be_established/none_held_responsible,3.0,value in absolute number,
+2005-06,All India,failure_of_equipment,8.0,value in absolute number,
+2005-06,All India,failure_of_other_than_railway_staff,21.0,value in absolute number,
+2005-06,All India,failure_of_railway_staff,120.0,value in absolute number,
+2005-06,All India,incidental,11.0,value in absolute number,
+2005-06,All India,sabotage,6.0,value in absolute number,
+2005-06,All India,under_investigation,0.0,value in absolute number,
+"2004-05
+2004-05
+2004-05",All India All India All India,"combination_of_factors
+could_not_be_established/none_held_responsible_failure_of_equipment",,value in absolute number value in absolute number value in absolute number,
+2004-05,All India,failure_of_other_than_railway_staff,13.0,value in absolute number,
+2004-05,All India,failure_of_railway_staff,119.0,value in absolute number,
+2004-05,All India,incidental,16.0,value in absolute number,
+2004-05,All India,sabotage,4.0,value in absolute number,
+"2004-05
+2003-04
+2003-04",All India All India All India,"under_investigation_combination_of_factors
+could_not_be_established/none_held_responsible",,value in absolute number value in absolute number value in absolute number,
+2003-04,All India,failure_of_equipment,18.0,value in absolute number,
+2003-04,All India,failure_of_other_than_railway_staff,21.0,value in absolute number,
+2003-04,All India,failure_of_railway_staff,161.0,value in absolute number,
+2003-04,All India,incidental,17.0,value in absolute number,
+2003-04,All India,sabotage,18.0,value in absolute number,
+2003-04,All India,under_investigation,0.0,value in absolute number,
+2002-03,All India,combination_of_factors,2.0,value in absolute number,
+"2002-03
+2002-03
+2002-03",All India All India All India,"could_not_be_established/none_held_responsible_failure_of_equipment
+failure_of_other_than_railway_staff",,value in absolute number value in absolute number value in absolute number,
+2002-03,All India,failure_of_railway_staff,186.0,value in absolute number,
+2002-03,All India,incidental,15.0,value in absolute number,
+2002-03,All India,sabotage,10.0,value in absolute number,
+2002-03,All India,under_investigation,0.0,value in absolute number,
+2001-02,All India,combination_of_factors,0.0,value in absolute number,
+2001-02,All India,could_not_be_established/none_held_responsible,5.0,value in absolute number,
+2001-02,All India,failure_of_equipment,24.0,value in absolute number,
+"2001-02
+2001-02
+2001-02
+2001-02",All India All India All India All India,"failure_of_other_than_railway_staff_failure_of_railway_staff
+incidental
+sabotage",,value in absolute number value in absolute number value in absolute number value in absolute number,
+2001-02,All India,under_investigation,1.0,value in absolute number,
+2000-01,All India,combination_of_factors,4.0,value in absolute number,
+2000-01,All India,could_not_be_established/none_held_responsible,4.0,value in absolute number,
+2000-01,All India,failure_of_equipment,33.0,value in absolute number,
+2000-01,All India,failure_of_other_than_railway_staff,109.0,value in absolute number,
+2000-01,All India,failure_of_railway_staff,293.0,value in absolute number,
+"2000-01
+2000-01
+2000-01",All India All India All India,"incidental_sabotage
+under_investigation",,value in absolute number value in absolute number value in absolute number,
